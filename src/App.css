@@ -7,7 +7,7 @@
 
 .home,
 .services,
-.products,
+.locations,
 .sign-up {
   display: flex;
   height: 90vh;
@@ -25,7 +25,7 @@
   font-size: 100px;
 }
 
-.products {
+.locations {
   background-image: url('assets/images/img-2.jpeg');
   background-position: center;
   background-size: fill;
