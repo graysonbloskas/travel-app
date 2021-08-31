@@ -2,5 +2,9 @@ import React from 'react';
 import '../../App.css';
 
 export default function Locations() {
-    return <h1 className="locations">Locations</h1>
+    return (
+        <div className="locations">
+            <h1 className="page-text">Locations</h1>
+        </div>
+    ) 
 }

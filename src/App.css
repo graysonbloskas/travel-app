@@ -17,7 +17,7 @@
 }
 
 .services {
-  background-image: url('assets/images/img-2.jpeg');
+  background-image: url('assets/images/aircraft.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,16 +26,23 @@
 }
 
 .locations {
-  background-image: url('assets/images/img-2.jpeg');
+  background-image: url('assets/images/vacation-planning.jpg');
   background-position: center;
+  width: 100vw;
+  height: 100vh;
   background-size: fill;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
+  
+}
+
+.page-text {
+  background-color: #24242489;
 }
 
 .sign-up {
-  background-image: url('assets/images/img-2.jpeg');
+  background-image: url('assets/images/signup.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
