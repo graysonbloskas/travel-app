@@ -53,6 +53,8 @@
 </details>
 
 
+## Photos of the Site
+![Travel-app](https://user-images.githubusercontent.com/79467387/131583359-8e7d22b1-1180-4ba6-8918-4490eddb8de9.png)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -164,5 +166,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Photos of the Site
-![Travel-app](https://user-images.githubusercontent.com/79467387/131583359-8e7d22b1-1180-4ba6-8918-4490eddb8de9.png)
+
