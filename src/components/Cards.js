@@ -4,6 +4,8 @@ import './Cards.css';
 import Budapest from '../assets/images/budapest-QXMPBHV.jpg';
 import Cruise from '../assets/images/cruise-ship-PJVXE72.jpg';
 import Norway from '../assets/images/northern-lights.jpg'
+import Bahamas from '../assets/images/bahamas.jpg'
+import Paris from '../assets/images/eiffel-tower.jpg';
 
 function Cards() {
   return (
@@ -30,16 +32,16 @@ function Cards() {
 
           <ul className='cards__items'>
             <CardItem
-              src={Budapest}
-              text='Explore the Most Beautiful City in the Eastern World'
-              label='Explore Budapest'
+              src={Bahamas}
+              text='Rest Your Feet in the sand at this Luxurious Island Destination'
+              label='Tropical Bahamas'
               path='/locations'
             />
 
             <CardItem
-              src={Cruise}
-              text='See What all an Alaskan Cruise has to Offer'
-              label='Cruising Alaska'
+              src={Paris}
+              text='Explore the Pride of Western Civilization'
+              label='Bon Voyage'
               path='/locations'
             />
 
